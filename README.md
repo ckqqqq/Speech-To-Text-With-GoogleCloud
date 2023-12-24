@@ -1,7 +1,4 @@
-"# Speech-To-Text-With-GoogleCloud" 
+使用Google Cloud Speech to Text API 自动处理数据。
 
-Google Colab竟然不能自动保存！！！妈的，21世纪了竟然还有不能自动保存的云端IDE。
-
-骂归骂，但是由于撒比的GFW，google colab调用google cloud 还是得用的。
-
-真的傻逼啊，google和CCP都傻逼。
+* **平台** (colab) : 不知道为什么，使用proxychains 代理 python request包无效。
+* 文档(google Speech to Text Doc):
