@@ -1,0 +1,1428 @@
+这架构特征基于升2.0的理念构建新的软件系统需要新的架构设计原则和云投入20余位资深的架构师好使了一年边创云升2.0架构白皮书 
+
+[transcript: "\350\277\231\346\236\266\346\236\204\347\211\271\345\276\201\345\237\272\344\272\216\345\215\2072.0\347\232\204\347\220\206\345\277\265\346\236\204\345\273\272\346\226\260\347\232\204\350\275\257\344\273\266\347\263\273\347\273\237\351\234\200\350\246\201\346\226\260\347\232\204\346\236\266\346\236\204\350\256\276\350\256\241\345\216\237\345\210\231\345\222\214\344\272\221\346\212\225\345\205\24520\344\275\231\344\275\215\350\265\204\346\267\261\347\232\204\346\236\266\346\236\204\345\270\210\345\245\275\344\275\277\344\272\206\344\270\200\345\271\264\350\276\271\345\210\233\344\272\221\345\215\2072.0\346\236\266\346\236\204\347\231\275\347\232\256\344\271\246"
+confidence: 0.9392569065093994
+words {
+  start_time {
+  }
+  end_time {
+    nanos: 100000000
+  }
+  word: "\350\277\231"
+}
+words {
+  start_time {
+    nanos: 100000000
+  }
+  end_time {
+    nanos: 200000000
+  }
+  word: "\346\236\266"
+}
+words {
+  start_time {
+    nanos: 200000000
+  }
+  end_time {
+    nanos: 300000000
+  }
+  word: "\346\236\204"
+}
+words {
+  start_time {
+    nanos: 300000000
+  }
+  end_time {
+    nanos: 500000000
+  }
+  word: "\347\211\271"
+}
+words {
+  start_time {
+    nanos: 500000000
+  }
+  end_time {
+    nanos: 600000000
+  }
+  word: "\345\276\201"
+}
+words {
+  start_time {
+    nanos: 600000000
+  }
+  end_time {
+    seconds: 1
+    nanos: 200000000
+  }
+  word: "\345\237\272"
+}
+words {
+  start_time {
+    seconds: 1
+    nanos: 200000000
+  }
+  end_time {
+    seconds: 1
+    nanos: 400000000
+  }
+  word: "\344\272\216"
+}
+words {
+  start_time {
+    seconds: 1
+    nanos: 400000000
+  }
+  end_time {
+    seconds: 1
+    nanos: 800000000
+  }
+  word: "\345\215\207"
+}
+words {
+  start_time {
+    seconds: 1
+    nanos: 800000000
+  }
+  end_time {
+    seconds: 2
+  }
+  word: "2.0"
+}
+words {
+  start_time {
+    seconds: 2
+  }
+  end_time {
+    seconds: 2
+    nanos: 300000000
+  }
+  word: "\347\232\204"
+}
+words {
+  start_time {
+    seconds: 2
+    nanos: 300000000
+  }
+  end_time {
+    seconds: 2
+    nanos: 400000000
+  }
+  word: "\347\220\206"
+}
+words {
+  start_time {
+    seconds: 2
+    nanos: 400000000
+  }
+  end_time {
+    seconds: 2
+    nanos: 600000000
+  }
+  word: "\345\277\265"
+}
+words {
+  start_time {
+    seconds: 2
+    nanos: 600000000
+  }
+  end_time {
+    seconds: 3
+    nanos: 200000000
+  }
+  word: "\346\236\204"
+}
+words {
+  start_time {
+    seconds: 3
+    nanos: 200000000
+  }
+  end_time {
+    seconds: 3
+    nanos: 300000000
+  }
+  word: "\345\273\272"
+}
+words {
+  start_time {
+    seconds: 3
+    nanos: 300000000
+  }
+  end_time {
+    seconds: 3
+    nanos: 800000000
+  }
+  word: "\346\226\260"
+}
+words {
+  start_time {
+    seconds: 3
+    nanos: 800000000
+  }
+  end_time {
+    seconds: 3
+    nanos: 900000000
+  }
+  word: "\347\232\204"
+}
+words {
+  start_time {
+    seconds: 3
+    nanos: 900000000
+  }
+  end_time {
+    seconds: 4
+  }
+  word: "\350\275\257"
+}
+words {
+  start_time {
+    seconds: 4
+  }
+  end_time {
+    seconds: 4
+    nanos: 100000000
+  }
+  word: "\344\273\266"
+}
+words {
+  start_time {
+    seconds: 4
+    nanos: 100000000
+  }
+  end_time {
+    seconds: 4
+    nanos: 400000000
+  }
+  word: "\347\263\273"
+}
+words {
+  start_time {
+    seconds: 4
+    nanos: 400000000
+  }
+  end_time {
+    seconds: 4
+    nanos: 400000000
+  }
+  word: "\347\273\237"
+}
+words {
+  start_time {
+    seconds: 4
+    nanos: 400000000
+  }
+  end_time {
+    seconds: 4
+    nanos: 900000000
+  }
+  word: "\351\234\200"
+}
+words {
+  start_time {
+    seconds: 4
+    nanos: 900000000
+  }
+  end_time {
+    seconds: 5
+  }
+  word: "\350\246\201"
+}
+words {
+  start_time {
+    seconds: 5
+  }
+  end_time {
+    seconds: 5
+    nanos: 300000000
+  }
+  word: "\346\226\260"
+}
+words {
+  start_time {
+    seconds: 5
+    nanos: 300000000
+  }
+  end_time {
+    seconds: 5
+    nanos: 400000000
+  }
+  word: "\347\232\204"
+}
+words {
+  start_time {
+    seconds: 5
+    nanos: 400000000
+  }
+  end_time {
+    seconds: 5
+    nanos: 600000000
+  }
+  word: "\346\236\266"
+}
+words {
+  start_time {
+    seconds: 5
+    nanos: 600000000
+  }
+  end_time {
+    seconds: 5
+    nanos: 600000000
+  }
+  word: "\346\236\204"
+}
+words {
+  start_time {
+    seconds: 5
+    nanos: 600000000
+  }
+  end_time {
+    seconds: 5
+    nanos: 700000000
+  }
+  word: "\350\256\276"
+}
+words {
+  start_time {
+    seconds: 5
+    nanos: 700000000
+  }
+  end_time {
+    seconds: 5
+    nanos: 900000000
+  }
+  word: "\350\256\241"
+}
+words {
+  start_time {
+    seconds: 5
+    nanos: 900000000
+  }
+  end_time {
+    seconds: 6
+    nanos: 200000000
+  }
+  word: "\345\216\237"
+}
+words {
+  start_time {
+    seconds: 6
+    nanos: 200000000
+  }
+  end_time {
+    seconds: 6
+    nanos: 200000000
+  }
+  word: "\345\210\231"
+}
+words {
+  start_time {
+    seconds: 6
+    nanos: 200000000
+  }
+  end_time {
+    seconds: 6
+    nanos: 900000000
+  }
+  word: "\345\222\214"
+}
+words {
+  start_time {
+    seconds: 6
+    nanos: 900000000
+  }
+  end_time {
+    seconds: 7
+    nanos: 200000000
+  }
+  word: "\344\272\221"
+}
+words {
+  start_time {
+    seconds: 7
+    nanos: 200000000
+  }
+  end_time {
+    seconds: 7
+    nanos: 500000000
+  }
+  word: "\346\212\225"
+}
+words {
+  start_time {
+    seconds: 7
+    nanos: 500000000
+  }
+  end_time {
+    seconds: 7
+    nanos: 700000000
+  }
+  word: "\345\205\245"
+}
+words {
+  start_time {
+    seconds: 7
+    nanos: 900000000
+  }
+  end_time {
+    seconds: 7
+    nanos: 900000000
+  }
+  word: "\344\272\214"
+}
+words {
+  start_time {
+    seconds: 7
+    nanos: 900000000
+  }
+  end_time {
+    seconds: 8
+  }
+  word: "\345\215\201"
+}
+words {
+  start_time {
+    seconds: 8
+  }
+  end_time {
+    seconds: 8
+    nanos: 100000000
+  }
+  word: "\344\275\231"
+}
+words {
+  start_time {
+    seconds: 8
+    nanos: 100000000
+  }
+  end_time {
+    seconds: 8
+    nanos: 300000000
+  }
+  word: "\344\275\215"
+}
+words {
+  start_time {
+    seconds: 8
+    nanos: 300000000
+  }
+  end_time {
+    seconds: 8
+    nanos: 700000000
+  }
+  word: "\350\265\204"
+}
+words {
+  start_time {
+    seconds: 8
+    nanos: 700000000
+  }
+  end_time {
+    seconds: 8
+    nanos: 800000000
+  }
+  word: "\346\267\261"
+}
+words {
+  start_time {
+    seconds: 8
+    nanos: 800000000
+  }
+  end_time {
+    seconds: 8
+    nanos: 900000000
+  }
+  word: "\347\232\204"
+}
+words {
+  start_time {
+    seconds: 8
+    nanos: 900000000
+  }
+  end_time {
+    seconds: 9
+    nanos: 100000000
+  }
+  word: "\346\236\266"
+}
+words {
+  start_time {
+    seconds: 9
+    nanos: 100000000
+  }
+  end_time {
+    seconds: 9
+    nanos: 200000000
+  }
+  word: "\346\236\204"
+}
+words {
+  start_time {
+    seconds: 9
+    nanos: 200000000
+  }
+  end_time {
+    seconds: 9
+    nanos: 400000000
+  }
+  word: "\345\270\210"
+}
+words {
+  start_time {
+    seconds: 9
+    nanos: 400000000
+  }
+  end_time {
+    seconds: 9
+    nanos: 900000000
+  }
+  word: "\345\245\275"
+}
+words {
+  start_time {
+    seconds: 9
+    nanos: 900000000
+  }
+  end_time {
+    seconds: 10
+    nanos: 100000000
+  }
+  word: "\344\275\277"
+}
+words {
+  start_time {
+    seconds: 10
+    nanos: 100000000
+  }
+  end_time {
+    seconds: 10
+    nanos: 200000000
+  }
+  word: "\344\272\206"
+}
+words {
+  start_time {
+    seconds: 10
+    nanos: 200000000
+  }
+  end_time {
+    seconds: 10
+    nanos: 200000000
+  }
+  word: "\344\270\200"
+}
+words {
+  start_time {
+    seconds: 10
+    nanos: 200000000
+  }
+  end_time {
+    seconds: 10
+    nanos: 500000000
+  }
+  word: "\345\271\264"
+}
+words {
+  start_time {
+    seconds: 10
+    nanos: 500000000
+  }
+  end_time {
+    seconds: 11
+  }
+  word: "\350\276\271"
+}
+words {
+  start_time {
+    seconds: 11
+  }
+  end_time {
+    seconds: 11
+    nanos: 100000000
+  }
+  word: "\345\210\233"
+}
+words {
+  start_time {
+    seconds: 11
+    nanos: 100000000
+  }
+  end_time {
+    seconds: 11
+    nanos: 300000000
+  }
+  word: "\344\272\221"
+}
+words {
+  start_time {
+    seconds: 11
+    nanos: 300000000
+  }
+  end_time {
+    seconds: 11
+    nanos: 600000000
+  }
+  word: "\345\215\207"
+}
+words {
+  start_time {
+    seconds: 11
+    nanos: 600000000
+  }
+  end_time {
+    seconds: 11
+    nanos: 700000000
+  }
+  word: "2.0"
+}
+words {
+  start_time {
+    seconds: 11
+    nanos: 700000000
+  }
+  end_time {
+    seconds: 12
+    nanos: 100000000
+  }
+  word: "\346\236\266"
+}
+words {
+  start_time {
+    seconds: 12
+    nanos: 100000000
+  }
+  end_time {
+    seconds: 12
+    nanos: 300000000
+  }
+  word: "\346\236\204"
+}
+words {
+  start_time {
+    seconds: 12
+    nanos: 300000000
+  }
+  end_time {
+    seconds: 12
+    nanos: 500000000
+  }
+  word: "\347\231\275"
+}
+words {
+  start_time {
+    seconds: 12
+    nanos: 500000000
+  }
+  end_time {
+    seconds: 12
+    nanos: 700000000
+  }
+  word: "\347\232\256"
+}
+words {
+  start_time {
+    seconds: 12
+    nanos: 700000000
+  }
+  end_time {
+    seconds: 12
+    nanos: 900000000
+  }
+  word: "\344\271\246"
+}
+] 
+
+开始时间戳
+这
+	0.0:00:00 sec - 0.0:00:00.100000 sec 
+
+架
+	0.0:00:00.100000 sec - 0.0:00:00.200000 sec 
+
+构
+	0.0:00:00.200000 sec - 0.0:00:00.300000 sec 
+
+特
+	0.0:00:00.300000 sec - 0.0:00:00.500000 sec 
+
+征
+	0.0:00:00.500000 sec - 0.0:00:00.600000 sec 
+
+基
+	0.0:00:00.600000 sec - 1.0:00:01.200000 sec 
+
+于
+	1.0:00:01.200000 sec - 1.0:00:01.400000 sec 
+
+升
+	1.0:00:01.400000 sec - 1.0:00:01.800000 sec 
+
+2.0
+	1.0:00:01.800000 sec - 2.0:00:02 sec 
+
+的
+	2.0:00:02 sec - 2.0:00:02.300000 sec 
+
+理
+	2.0:00:02.300000 sec - 2.0:00:02.400000 sec 
+
+念
+	2.0:00:02.400000 sec - 2.0:00:02.600000 sec 
+
+构
+	2.0:00:02.600000 sec - 3.0:00:03.200000 sec 
+
+建
+	3.0:00:03.200000 sec - 3.0:00:03.300000 sec 
+
+新
+	3.0:00:03.300000 sec - 3.0:00:03.800000 sec 
+
+的
+	3.0:00:03.800000 sec - 3.0:00:03.900000 sec 
+
+软
+	3.0:00:03.900000 sec - 4.0:00:04 sec 
+
+件
+	4.0:00:04 sec - 4.0:00:04.100000 sec 
+
+系
+	4.0:00:04.100000 sec - 4.0:00:04.400000 sec 
+
+统
+	4.0:00:04.400000 sec - 4.0:00:04.400000 sec 
+
+需
+	4.0:00:04.400000 sec - 4.0:00:04.900000 sec 
+
+要
+	4.0:00:04.900000 sec - 5.0:00:05 sec 
+
+新
+	5.0:00:05 sec - 5.0:00:05.300000 sec 
+
+的
+	5.0:00:05.300000 sec - 5.0:00:05.400000 sec 
+
+架
+	5.0:00:05.400000 sec - 5.0:00:05.600000 sec 
+
+构
+	5.0:00:05.600000 sec - 5.0:00:05.600000 sec 
+
+设
+	5.0:00:05.600000 sec - 5.0:00:05.700000 sec 
+
+计
+	5.0:00:05.700000 sec - 5.0:00:05.900000 sec 
+
+原
+	5.0:00:05.900000 sec - 6.0:00:06.200000 sec 
+
+则
+	6.0:00:06.200000 sec - 6.0:00:06.200000 sec 
+
+和
+	6.0:00:06.200000 sec - 6.0:00:06.900000 sec 
+
+云
+	6.0:00:06.900000 sec - 7.0:00:07.200000 sec 
+
+投
+	7.0:00:07.200000 sec - 7.0:00:07.500000 sec 
+
+入
+	7.0:00:07.500000 sec - 7.0:00:07.700000 sec 
+
+二
+	7.0:00:07.900000 sec - 7.0:00:07.900000 sec 
+
+十
+	7.0:00:07.900000 sec - 8.0:00:08 sec 
+
+余
+	8.0:00:08 sec - 8.0:00:08.100000 sec 
+
+位
+	8.0:00:08.100000 sec - 8.0:00:08.300000 sec 
+
+资
+	8.0:00:08.300000 sec - 8.0:00:08.700000 sec 
+
+深
+	8.0:00:08.700000 sec - 8.0:00:08.800000 sec 
+
+的
+	8.0:00:08.800000 sec - 8.0:00:08.900000 sec 
+
+架
+	8.0:00:08.900000 sec - 9.0:00:09.100000 sec 
+
+构
+	9.0:00:09.100000 sec - 9.0:00:09.200000 sec 
+
+师
+	9.0:00:09.200000 sec - 9.0:00:09.400000 sec 
+
+好
+	9.0:00:09.400000 sec - 9.0:00:09.900000 sec 
+
+使
+	9.0:00:09.900000 sec - 10.0:00:10.100000 sec 
+
+了
+	10.0:00:10.100000 sec - 10.0:00:10.200000 sec 
+
+一
+	10.0:00:10.200000 sec - 10.0:00:10.200000 sec 
+
+年
+	10.0:00:10.200000 sec - 10.0:00:10.500000 sec 
+
+边
+	10.0:00:10.500000 sec - 11.0:00:11 sec 
+
+创
+	11.0:00:11 sec - 11.0:00:11.100000 sec 
+
+云
+	11.0:00:11.100000 sec - 11.0:00:11.300000 sec 
+
+升
+	11.0:00:11.300000 sec - 11.0:00:11.600000 sec 
+
+2.0
+	11.0:00:11.600000 sec - 11.0:00:11.700000 sec 
+
+架
+	11.0:00:11.700000 sec - 12.0:00:12.100000 sec 
+
+构
+	12.0:00:12.100000 sec - 12.0:00:12.300000 sec 
+
+白
+	12.0:00:12.300000 sec - 12.0:00:12.500000 sec 
+
+皮
+	12.0:00:12.500000 sec - 12.0:00:12.700000 sec 
+
+书
+	12.0:00:12.700000 sec - 12.0:00:12.900000 sec 
+
+人生发展至今也出现了新的架构特征基于原生2.0的理念构建新的软件系统需要新的架构设计原则黄云 
+
+[transcript: "\344\272\272\347\224\237\345\217\221\345\261\225\350\207\263\344\273\212\344\271\237\345\207\272\347\216\260\344\272\206\346\226\260\347\232\204\346\236\266\346\236\204\347\211\271\345\276\201\345\237\272\344\272\216\345\216\237\347\224\2372.0\347\232\204\347\220\206\345\277\265\346\236\204\345\273\272\346\226\260\347\232\204\350\275\257\344\273\266\347\263\273\347\273\237\351\234\200\350\246\201\346\226\260\347\232\204\346\236\266\346\236\204\350\256\276\350\256\241\345\216\237\345\210\231\351\273\204\344\272\221"
+confidence: 0.9450863599777222
+words {
+  start_time {
+    seconds: 28
+    nanos: 200000000
+  }
+  end_time {
+    seconds: 30
+    nanos: 700000000
+  }
+  word: "\344\272\272"
+}
+words {
+  start_time {
+    seconds: 30
+    nanos: 700000000
+  }
+  end_time {
+    seconds: 30
+    nanos: 800000000
+  }
+  word: "\347\224\237"
+}
+words {
+  start_time {
+    seconds: 30
+    nanos: 800000000
+  }
+  end_time {
+    seconds: 30
+    nanos: 900000000
+  }
+  word: "\345\217\221"
+}
+words {
+  start_time {
+    seconds: 30
+    nanos: 900000000
+  }
+  end_time {
+    seconds: 31
+  }
+  word: "\345\261\225"
+}
+words {
+  start_time {
+    seconds: 31
+  }
+  end_time {
+    seconds: 31
+    nanos: 200000000
+  }
+  word: "\350\207\263"
+}
+words {
+  start_time {
+    seconds: 31
+    nanos: 200000000
+  }
+  end_time {
+    seconds: 31
+    nanos: 200000000
+  }
+  word: "\344\273\212"
+}
+words {
+  start_time {
+    seconds: 31
+    nanos: 200000000
+  }
+  end_time {
+    seconds: 31
+    nanos: 700000000
+  }
+  word: "\344\271\237"
+}
+words {
+  start_time {
+    seconds: 31
+    nanos: 700000000
+  }
+  end_time {
+    seconds: 31
+    nanos: 900000000
+  }
+  word: "\345\207\272"
+}
+words {
+  start_time {
+    seconds: 31
+    nanos: 900000000
+  }
+  end_time {
+    seconds: 32
+  }
+  word: "\347\216\260"
+}
+words {
+  start_time {
+    seconds: 32
+  }
+  end_time {
+    seconds: 32
+    nanos: 100000000
+  }
+  word: "\344\272\206"
+}
+words {
+  start_time {
+    seconds: 32
+    nanos: 100000000
+  }
+  end_time {
+    seconds: 32
+    nanos: 300000000
+  }
+  word: "\346\226\260"
+}
+words {
+  start_time {
+    seconds: 32
+    nanos: 300000000
+  }
+  end_time {
+    seconds: 32
+    nanos: 500000000
+  }
+  word: "\347\232\204"
+}
+words {
+  start_time {
+    seconds: 32
+    nanos: 500000000
+  }
+  end_time {
+    seconds: 32
+    nanos: 600000000
+  }
+  word: "\346\236\266"
+}
+words {
+  start_time {
+    seconds: 32
+    nanos: 600000000
+  }
+  end_time {
+    seconds: 32
+    nanos: 700000000
+  }
+  word: "\346\236\204"
+}
+words {
+  start_time {
+    seconds: 32
+    nanos: 700000000
+  }
+  end_time {
+    seconds: 32
+    nanos: 900000000
+  }
+  word: "\347\211\271"
+}
+words {
+  start_time {
+    seconds: 32
+    nanos: 900000000
+  }
+  end_time {
+    seconds: 32
+    nanos: 900000000
+  }
+  word: "\345\276\201"
+}
+words {
+  start_time {
+    seconds: 32
+    nanos: 900000000
+  }
+  end_time {
+    seconds: 33
+    nanos: 700000000
+  }
+  word: "\345\237\272"
+}
+words {
+  start_time {
+    seconds: 33
+    nanos: 700000000
+  }
+  end_time {
+    seconds: 33
+    nanos: 800000000
+  }
+  word: "\344\272\216"
+}
+words {
+  start_time {
+    seconds: 33
+    nanos: 800000000
+  }
+  end_time {
+    seconds: 34
+    nanos: 100000000
+  }
+  word: "\345\216\237"
+}
+words {
+  start_time {
+    seconds: 34
+    nanos: 100000000
+  }
+  end_time {
+    seconds: 34
+    nanos: 200000000
+  }
+  word: "\347\224\237"
+}
+words {
+  start_time {
+    seconds: 34
+    nanos: 200000000
+  }
+  end_time {
+    seconds: 34
+    nanos: 700000000
+  }
+  word: "2.0"
+}
+words {
+  start_time {
+    seconds: 34
+    nanos: 700000000
+  }
+  end_time {
+    seconds: 34
+    nanos: 800000000
+  }
+  word: "\347\232\204"
+}
+words {
+  start_time {
+    seconds: 34
+    nanos: 800000000
+  }
+  end_time {
+    seconds: 34
+    nanos: 900000000
+  }
+  word: "\347\220\206"
+}
+words {
+  start_time {
+    seconds: 34
+    nanos: 900000000
+  }
+  end_time {
+    seconds: 35
+  }
+  word: "\345\277\265"
+}
+words {
+  start_time {
+    seconds: 35
+  }
+  end_time {
+    seconds: 35
+    nanos: 600000000
+  }
+  word: "\346\236\204"
+}
+words {
+  start_time {
+    seconds: 35
+    nanos: 600000000
+  }
+  end_time {
+    seconds: 35
+    nanos: 800000000
+  }
+  word: "\345\273\272"
+}
+words {
+  start_time {
+    seconds: 35
+    nanos: 800000000
+  }
+  end_time {
+    seconds: 36
+    nanos: 200000000
+  }
+  word: "\346\226\260"
+}
+words {
+  start_time {
+    seconds: 36
+    nanos: 200000000
+  }
+  end_time {
+    seconds: 36
+    nanos: 400000000
+  }
+  word: "\347\232\204"
+}
+words {
+  start_time {
+    seconds: 36
+    nanos: 400000000
+  }
+  end_time {
+    seconds: 36
+    nanos: 500000000
+  }
+  word: "\350\275\257"
+}
+words {
+  start_time {
+    seconds: 36
+    nanos: 500000000
+  }
+  end_time {
+    seconds: 36
+    nanos: 600000000
+  }
+  word: "\344\273\266"
+}
+words {
+  start_time {
+    seconds: 36
+    nanos: 600000000
+  }
+  end_time {
+    seconds: 36
+    nanos: 800000000
+  }
+  word: "\347\263\273"
+}
+words {
+  start_time {
+    seconds: 36
+    nanos: 800000000
+  }
+  end_time {
+    seconds: 36
+    nanos: 900000000
+  }
+  word: "\347\273\237"
+}
+words {
+  start_time {
+    seconds: 36
+    nanos: 900000000
+  }
+  end_time {
+    seconds: 37
+    nanos: 400000000
+  }
+  word: "\351\234\200"
+}
+words {
+  start_time {
+    seconds: 37
+    nanos: 400000000
+  }
+  end_time {
+    seconds: 37
+    nanos: 600000000
+  }
+  word: "\350\246\201"
+}
+words {
+  start_time {
+    seconds: 37
+    nanos: 600000000
+  }
+  end_time {
+    seconds: 37
+    nanos: 800000000
+  }
+  word: "\346\226\260"
+}
+words {
+  start_time {
+    seconds: 37
+    nanos: 800000000
+  }
+  end_time {
+    seconds: 37
+    nanos: 900000000
+  }
+  word: "\347\232\204"
+}
+words {
+  start_time {
+    seconds: 37
+    nanos: 900000000
+  }
+  end_time {
+    seconds: 38
+    nanos: 100000000
+  }
+  word: "\346\236\266"
+}
+words {
+  start_time {
+    seconds: 38
+    nanos: 100000000
+  }
+  end_time {
+    seconds: 38
+    nanos: 100000000
+  }
+  word: "\346\236\204"
+}
+words {
+  start_time {
+    seconds: 38
+    nanos: 100000000
+  }
+  end_time {
+    seconds: 38
+    nanos: 200000000
+  }
+  word: "\350\256\276"
+}
+words {
+  start_time {
+    seconds: 38
+    nanos: 200000000
+  }
+  end_time {
+    seconds: 38
+    nanos: 400000000
+  }
+  word: "\350\256\241"
+}
+words {
+  start_time {
+    seconds: 38
+    nanos: 400000000
+  }
+  end_time {
+    seconds: 38
+    nanos: 700000000
+  }
+  word: "\345\216\237"
+}
+words {
+  start_time {
+    seconds: 38
+    nanos: 700000000
+  }
+  end_time {
+    seconds: 38
+    nanos: 700000000
+  }
+  word: "\345\210\231"
+}
+words {
+  start_time {
+    seconds: 38
+    nanos: 700000000
+  }
+  end_time {
+    seconds: 39
+    nanos: 700000000
+  }
+  word: "\351\273\204"
+}
+words {
+  start_time {
+    seconds: 39
+    nanos: 700000000
+  }
+  end_time {
+    seconds: 39
+    nanos: 900000000
+  }
+  word: "\344\272\221"
+}
+] 
+
+开始时间戳
+人
+	28.0:00:28.200000 sec - 30.0:00:30.700000 sec 
+
+生
+	30.0:00:30.700000 sec - 30.0:00:30.800000 sec 
+
+发
+	30.0:00:30.800000 sec - 30.0:00:30.900000 sec 
+
+展
+	30.0:00:30.900000 sec - 31.0:00:31 sec 
+
+至
+	31.0:00:31 sec - 31.0:00:31.200000 sec 
+
+今
+	31.0:00:31.200000 sec - 31.0:00:31.200000 sec 
+
+也
+	31.0:00:31.200000 sec - 31.0:00:31.700000 sec 
+
+出
+	31.0:00:31.700000 sec - 31.0:00:31.900000 sec 
+
+现
+	31.0:00:31.900000 sec - 32.0:00:32 sec 
+
+了
+	32.0:00:32 sec - 32.0:00:32.100000 sec 
+
+新
+	32.0:00:32.100000 sec - 32.0:00:32.300000 sec 
+
+的
+	32.0:00:32.300000 sec - 32.0:00:32.500000 sec 
+
+架
+	32.0:00:32.500000 sec - 32.0:00:32.600000 sec 
+
+构
+	32.0:00:32.600000 sec - 32.0:00:32.700000 sec 
+
+特
+	32.0:00:32.700000 sec - 32.0:00:32.900000 sec 
+
+征
+	32.0:00:32.900000 sec - 32.0:00:32.900000 sec 
+
+基
+	32.0:00:32.900000 sec - 33.0:00:33.700000 sec 
+
+于
+	33.0:00:33.700000 sec - 33.0:00:33.800000 sec 
+
+原
+	33.0:00:33.800000 sec - 34.0:00:34.100000 sec 
+
+生
+	34.0:00:34.100000 sec - 34.0:00:34.200000 sec 
+
+2.0
+	34.0:00:34.200000 sec - 34.0:00:34.700000 sec 
+
+的
+	34.0:00:34.700000 sec - 34.0:00:34.800000 sec 
+
+理
+	34.0:00:34.800000 sec - 34.0:00:34.900000 sec 
+
+念
+	34.0:00:34.900000 sec - 35.0:00:35 sec 
+
+构
+	35.0:00:35 sec - 35.0:00:35.600000 sec 
+
+建
+	35.0:00:35.600000 sec - 35.0:00:35.800000 sec 
+
+新
+	35.0:00:35.800000 sec - 36.0:00:36.200000 sec 
+
+的
+	36.0:00:36.200000 sec - 36.0:00:36.400000 sec 
+
+软
+	36.0:00:36.400000 sec - 36.0:00:36.500000 sec 
+
+件
+	36.0:00:36.500000 sec - 36.0:00:36.600000 sec 
+
+系
+	36.0:00:36.600000 sec - 36.0:00:36.800000 sec 
+
+统
+	36.0:00:36.800000 sec - 36.0:00:36.900000 sec 
+
+需
+	36.0:00:36.900000 sec - 37.0:00:37.400000 sec 
+
+要
+	37.0:00:37.400000 sec - 37.0:00:37.600000 sec 
+
+新
+	37.0:00:37.600000 sec - 37.0:00:37.800000 sec 
+
+的
+	37.0:00:37.800000 sec - 37.0:00:37.900000 sec 
+
+架
+	37.0:00:37.900000 sec - 38.0:00:38.100000 sec 
+
+构
+	38.0:00:38.100000 sec - 38.0:00:38.100000 sec 
+
+设
+	38.0:00:38.100000 sec - 38.0:00:38.200000 sec 
+
+计
+	38.0:00:38.200000 sec - 38.0:00:38.400000 sec 
+
+原
+	38.0:00:38.400000 sec - 38.0:00:38.700000 sec 
+
+则
+	38.0:00:38.700000 sec - 38.0:00:38.700000 sec 
+
+黄
+	38.0:00:38.700000 sec - 39.0:00:39.700000 sec 
+
+云
+	39.0:00:39.700000 sec - 39.0:00:39.900000 sec 
+

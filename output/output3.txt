@@ -1,0 +1,315 @@
+投入20余位资深的架构师21年边创了云原生200架构 
+
+[transcript: "\346\212\225\345\205\24520\344\275\231\344\275\215\350\265\204\346\267\261\347\232\204\346\236\266\346\236\204\345\270\21021\345\271\264\350\276\271\345\210\233\344\272\206\344\272\221\345\216\237\347\224\237200\346\236\266\346\236\204"
+confidence: 0.9213230609893799
+words {
+  start_time {
+  }
+  end_time {
+    nanos: 200000000
+  }
+  word: "\346\212\225"
+}
+words {
+  start_time {
+    nanos: 200000000
+  }
+  end_time {
+    nanos: 300000000
+  }
+  word: "\345\205\245"
+}
+words {
+  start_time {
+    nanos: 500000000
+  }
+  end_time {
+    nanos: 500000000
+  }
+  word: "\344\272\214"
+}
+words {
+  start_time {
+    nanos: 500000000
+  }
+  end_time {
+    nanos: 600000000
+  }
+  word: "\345\215\201"
+}
+words {
+  start_time {
+    nanos: 700000000
+  }
+  end_time {
+    nanos: 700000000
+  }
+  word: "\344\275\231"
+}
+words {
+  start_time {
+    nanos: 700000000
+  }
+  end_time {
+    nanos: 900000000
+  }
+  word: "\344\275\215"
+}
+words {
+  start_time {
+    nanos: 900000000
+  }
+  end_time {
+    seconds: 1
+    nanos: 200000000
+  }
+  word: "\350\265\204"
+}
+words {
+  start_time {
+    seconds: 1
+    nanos: 200000000
+  }
+  end_time {
+    seconds: 1
+    nanos: 300000000
+  }
+  word: "\346\267\261"
+}
+words {
+  start_time {
+    seconds: 1
+    nanos: 300000000
+  }
+  end_time {
+    seconds: 1
+    nanos: 500000000
+  }
+  word: "\347\232\204"
+}
+words {
+  start_time {
+    seconds: 1
+    nanos: 500000000
+  }
+  end_time {
+    seconds: 1
+    nanos: 600000000
+  }
+  word: "\346\236\266"
+}
+words {
+  start_time {
+    seconds: 1
+    nanos: 600000000
+  }
+  end_time {
+    seconds: 1
+    nanos: 600000000
+  }
+  word: "\346\236\204"
+}
+words {
+  start_time {
+    seconds: 1
+    nanos: 600000000
+  }
+  end_time {
+    seconds: 1
+    nanos: 900000000
+  }
+  word: "\345\270\210"
+}
+words {
+  start_time {
+    seconds: 1
+    nanos: 900000000
+  }
+  end_time {
+    seconds: 2
+    nanos: 600000000
+  }
+  word: "21"
+}
+words {
+  start_time {
+    seconds: 2
+    nanos: 600000000
+  }
+  end_time {
+    seconds: 2
+    nanos: 900000000
+  }
+  word: "\345\271\264"
+}
+words {
+  start_time {
+    seconds: 2
+    nanos: 900000000
+  }
+  end_time {
+    seconds: 3
+    nanos: 500000000
+  }
+  word: "\350\276\271"
+}
+words {
+  start_time {
+    seconds: 3
+    nanos: 500000000
+  }
+  end_time {
+    seconds: 3
+    nanos: 600000000
+  }
+  word: "\345\210\233"
+}
+words {
+  start_time {
+    seconds: 3
+    nanos: 600000000
+  }
+  end_time {
+    seconds: 3
+    nanos: 700000000
+  }
+  word: "\344\272\206"
+}
+words {
+  start_time {
+    seconds: 3
+    nanos: 700000000
+  }
+  end_time {
+    seconds: 3
+    nanos: 900000000
+  }
+  word: "\344\272\221"
+}
+words {
+  start_time {
+    seconds: 3
+    nanos: 900000000
+  }
+  end_time {
+    seconds: 4
+    nanos: 100000000
+  }
+  word: "\345\216\237"
+}
+words {
+  start_time {
+    seconds: 4
+    nanos: 100000000
+  }
+  end_time {
+    seconds: 4
+    nanos: 100000000
+  }
+  word: "\347\224\237"
+}
+words {
+  start_time {
+    seconds: 4
+    nanos: 100000000
+  }
+  end_time {
+    seconds: 4
+    nanos: 600000000
+  }
+  word: "200"
+}
+words {
+  start_time {
+    seconds: 4
+    nanos: 600000000
+  }
+  end_time {
+    seconds: 4
+    nanos: 700000000
+  }
+  word: "\346\236\266"
+}
+words {
+  start_time {
+    seconds: 4
+    nanos: 700000000
+  }
+  end_time {
+    seconds: 4
+    nanos: 900000000
+  }
+  word: "\346\236\204"
+}
+] 
+
+开始时间戳
+投
+	0.0:00:00 sec - 0.0:00:00.200000 sec 
+
+入
+	0.0:00:00.200000 sec - 0.0:00:00.300000 sec 
+
+二
+	0.0:00:00.500000 sec - 0.0:00:00.500000 sec 
+
+十
+	0.0:00:00.500000 sec - 0.0:00:00.600000 sec 
+
+余
+	0.0:00:00.700000 sec - 0.0:00:00.700000 sec 
+
+位
+	0.0:00:00.700000 sec - 0.0:00:00.900000 sec 
+
+资
+	0.0:00:00.900000 sec - 1.0:00:01.200000 sec 
+
+深
+	1.0:00:01.200000 sec - 1.0:00:01.300000 sec 
+
+的
+	1.0:00:01.300000 sec - 1.0:00:01.500000 sec 
+
+架
+	1.0:00:01.500000 sec - 1.0:00:01.600000 sec 
+
+构
+	1.0:00:01.600000 sec - 1.0:00:01.600000 sec 
+
+师
+	1.0:00:01.600000 sec - 1.0:00:01.900000 sec 
+
+21
+	1.0:00:01.900000 sec - 2.0:00:02.600000 sec 
+
+年
+	2.0:00:02.600000 sec - 2.0:00:02.900000 sec 
+
+边
+	2.0:00:02.900000 sec - 3.0:00:03.500000 sec 
+
+创
+	3.0:00:03.500000 sec - 3.0:00:03.600000 sec 
+
+了
+	3.0:00:03.600000 sec - 3.0:00:03.700000 sec 
+
+云
+	3.0:00:03.700000 sec - 3.0:00:03.900000 sec 
+
+原
+	3.0:00:03.900000 sec - 4.0:00:04.100000 sec 
+
+生
+	4.0:00:04.100000 sec - 4.0:00:04.100000 sec 
+
+200
+	4.0:00:04.100000 sec - 4.0:00:04.600000 sec 
+
+架
+	4.0:00:04.600000 sec - 4.0:00:04.700000 sec 
+
+构
+	4.0:00:04.700000 sec - 4.0:00:04.900000 sec 
+
